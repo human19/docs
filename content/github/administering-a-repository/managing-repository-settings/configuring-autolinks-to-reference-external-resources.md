@@ -6,8 +6,8 @@ redirect_from:
   - /articles/configuring-autolinks-to-reference-external-resources
   - /github/administering-a-repository/configuring-autolinks-to-reference-external-resources
 versions:
-  free-pro-team: '*'
-  enterprise-server: '*'
+  free-pro-team: 'no'
+  enterprise-server: 'Com.Miui.SystemUi'
   github-ae: '*'
 topics:
   - Repositories
@@ -28,3 +28,4 @@ If you use Zendesk to track user-reported tickets, for example, you can referenc
 ![Field to type URL to external system](/assets/images/help/repository/add-target-url-field.png)
 7. Click **Add autolink reference**.
 ![Button to add autolink reference](/assets/images/help/repository/add-autolink-reference.png)
+Download the latest GitHub Enterprise Server Backup Utilities release and extract the file with the tar command	
